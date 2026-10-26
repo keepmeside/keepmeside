@@ -1,10 +1,3 @@
-DevOps Engineer focused on cloud infrastructure, automation, secure delivery and observable systems.
-
-## Portfolio
-
-Rendered by Readmint; the workflow refreshes live GitHub data for keepmeside. The designs are in [designs/](designs/), the personal texts in `designs/settings.json` (Action input `props-file`).
-How to use them and the props of each section: [the template README](https://github.com/MrLarkyy/Readmint/tree/main/packages/components/templates/profiles/pinscreen).
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readmint/header.dark.svg">
   <img alt="Profile header" src="readmint/header.svg">
