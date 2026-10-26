@@ -120,6 +120,16 @@
           "if": "{{ github.location }}"
         },
         {
+          "type": "text",
+          "x": -2,
+          "y": 46.7,
+          "content": "Keepmeside",
+          "font": "gs",
+          "fontSize": 60,
+          "letterSpacing": -2.1,
+          "fill": "{{ props.theme == \"dark\" ? \"#EDEDED\" : \"#0A0A0A\" }}"
+        },
+        {
           "type": "group",
           "x": 0,
           "y": 120,
