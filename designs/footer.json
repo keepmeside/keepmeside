@@ -122,8 +122,8 @@
                   "y": 33.44,
                   "content": "{{ props.headline }}",
                   "font": "gs",
-                  "fontSize": 32,
-                  "letterSpacing": -0.96,
+                  "fontSize": 28,
+                  "letterSpacing": -0.84,
                   "fill": "{{ props.theme == \"dark\" ? \"#EDEDED\" : \"#0A0A0A\" }}"
                 }
               ]
@@ -186,15 +186,6 @@
           "width": "{{ ((props.contactText || \"github.com/\" + github.login) | truncate(34) | truncateWidth(300, \"mono\", 14) | textWidth(\"mono\", 14)) }}",
           "height": 1.5,
           "fill": "{{ props.theme == \"dark\" ? \"#FF6369\" : \"#E5484D\" }}"
-        },
-        {
-          "type": "text",
-          "x": 0,
-          "y": 127.972,
-          "content": "{{ \"rendered by readmint · \" + (github.contributions.to | date(\"d MMM yyyy\") | lower) }}",
-          "font": "mono",
-          "fontSize": 10.5,
-          "fill": "{{ props.theme == \"dark\" ? \"#84848E\" : \"#71717A\" }}"
         }
       ]
     }
