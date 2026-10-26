@@ -1,0 +1,30 @@
+{
+  "header": {
+    "role": "DevOps Engineer. Cloud infrastructure, automation and reliable delivery.",
+    "intro": "Building secure platforms, observable systems and repeatable delivery pipelines.",
+    "branch": "main",
+    "statusBarRight": "Linux · IaC · CI/CD"
+  },
+  "stack": {
+    "languageShare": "repositories",
+    "plugin": "terraform · docker · kubernetes",
+    "labels": ["infrastructure", "delivery", "platform", "observability"],
+    "items": [
+      "terraform, ansible, cloud-init",
+      "github actions, docker, helm",
+      "kubernetes, linux, reverse proxies",
+      "prometheus, grafana, structured logs"
+    ],
+    "noteLabels": ["tools", "focus"],
+    "noteItems": [
+      "GitHub Actions, Docker, Terraform, Ansible, Bash, Rust",
+      "secure delivery, incident response, reproducible environments"
+    ]
+  },
+  "footer": {
+    "headline": "Open to infrastructure and platform work.",
+    "note": "DevOps systems, secure delivery and reliable operations.",
+    "contactLabel": "github",
+    "contactText": "github.com/keepmeside"
+  }
+}
