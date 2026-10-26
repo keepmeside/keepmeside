@@ -75,7 +75,7 @@
           "width": 840,
           "align": "end",
           "y": 9.495,
-          "content": "*.yaml",
+          "content": "primary language per project",
           "font": "mono",
           "fontSize": 11,
           "fill": "{{ props.theme == \"dark\" ? \"#8B8B94\" : \"#71717A\" }}"
