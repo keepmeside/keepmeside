@@ -1,5 +1,3 @@
-# keepmeside
-
 DevOps Engineer focused on cloud infrastructure, automation, secure delivery and observable systems.
 
 ## Portfolio
